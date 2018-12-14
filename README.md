@@ -69,20 +69,29 @@ Nunit3TestAdapter
 TestStack.BDDfy
 Also update appSettings.json to CopyAlways
 
+=========================
+Editing file from GitHub
+=========================
+Download and extract file from GitHub
+Where you see the README.md git init in Cmder
+Add your changes
+git add .
+git commit -a -m "My latest change"
+git remote add origin https://github.com/SammyDeuce44/HotelBookings.git
+git push -u origin master
 
-========================
+=========================
 Create a new repository on the command line
-========================
+=========================
 echo "# ScreenPlay" >> README.md
 git init
 git add README.md
-git commit -m "My first commit"
+git commit -a -m "My latest change"
 git remote add origin https://github.com/SammyDeuce44/ScreenPlay.git
 git push -u origin master
 
-
-========================
+=========================
 Push an existing repository from the command line
-========================
+=========================
 git remote add origin https://github.com/SammyDeuce44/ScreenPlay.git
 git push -u origin master
