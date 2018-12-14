@@ -1,0 +1,15 @@
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\APIAcceptanceTest.deps.json
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\APIAcceptanceTest.runtimeconfig.json
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\APIAcceptanceTest.runtimeconfig.dev.json
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\APIAcceptanceTest.dll
+C:\Play\HotelBooking\APIAcceptanceTest\obj\Debug\netcoreapp2.1\APIAcceptanceTest.csprojAssemblyReference.cache
+C:\Play\HotelBooking\APIAcceptanceTest\obj\Debug\netcoreapp2.1\APIAcceptanceTest.csproj.CoreCompileInputs.cache
+C:\Play\HotelBooking\APIAcceptanceTest\obj\Debug\netcoreapp2.1\APIAcceptanceTest.AssemblyInfoInputs.cache
+C:\Play\HotelBooking\APIAcceptanceTest\obj\Debug\netcoreapp2.1\APIAcceptanceTest.AssemblyInfo.cs
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\APIAcceptanceTest.pdb
+C:\Play\HotelBooking\APIAcceptanceTest\obj\Debug\netcoreapp2.1\APIAcceptanceTest.dll
+C:\Play\HotelBooking\APIAcceptanceTest\obj\Debug\netcoreapp2.1\APIAcceptanceTest.pdb
+C:\Play\HotelBooking\APIAcceptanceTest\bin\Debug\netcoreapp2.1\Framework\Config\appSettings.json
